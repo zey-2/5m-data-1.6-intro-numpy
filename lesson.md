@@ -14,6 +14,12 @@ This lesson introduces `Jupyter Notebook` and `Numpy` library. Jupyter Notebook 
 
 ## Part 1 - Introduction to Jupyter Notebook
 
+Install the prescribed conda environment before you begin.
+
+```bash
+conda env create -f environment.yml
+```
+
 ### Jupyter Notebook Demo
 
 To start Jupyter Notebook, open your terminal (or anaconda prompt), then activate the conda environment:
