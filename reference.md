@@ -10,3 +10,10 @@
   - https://www.datacamp.com/cheat-sheet/numpy-cheat-sheet-data-analysis-in-python
 - Jupyter Notebook Cheatsheet
   - https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet
+
+---
+
+A new link for the 2nd one may be this:
+
+- Tips, Tricks and Shortcuts for Jupyter Notebook
+  - https://saturncloud.io/blog/40-jupyter-notebook-tips-tricks-and-shortcuts-for-data-science/
